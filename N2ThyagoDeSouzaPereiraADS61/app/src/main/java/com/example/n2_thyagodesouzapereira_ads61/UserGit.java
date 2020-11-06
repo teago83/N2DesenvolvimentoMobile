@@ -1,6 +1,6 @@
 package com.example.n2_thyagodesouzapereira_ads61;
 
-public class User {
+public class UserGit {
 
     private String Username;
     private String ID;
